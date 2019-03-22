@@ -1,0 +1,18 @@
+{
+  "name": "restro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "!"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.1",
+    "noblox.js": "^4.2.3",
+    "strict-uri-encode": "^2.0.0"
+  }
+}
